@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-For praveen PK
-
-=======
-new file for login portal
-i am adding all the code requred for our login poratal and will be done with 2 to 3 week.
->>>>>>> login
