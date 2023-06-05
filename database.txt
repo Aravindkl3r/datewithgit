@@ -1,1 +1,2 @@
-ahhahahaa
+working on database.
+scheduled all the requirements and created tables,er for the same
