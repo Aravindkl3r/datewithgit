@@ -1,2 +1,3 @@
 working on database.
-scheduled all the requirements and created tables,er for the same
+scheduled all the requirements and created tables,er for the same.
+wating for the approvals by master for futher proceedings
